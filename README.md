@@ -28,7 +28,7 @@
 🔹 **Microservices Architecture**  
 🔹 **Cloud Computing** 
 🔹 **Blockchain & AI Enthusiast**  
-🔹 **DevOps & CI/CD **
+🔹 **DevOps & CI/CD**
 
 ---
 
