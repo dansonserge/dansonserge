@@ -35,7 +35,6 @@
 ## 📬 Let's Connect!  
 💼 **LinkedIn:** [linkedin.com/in/serge-danson-ndekezi](https://www.linkedin.com/in/serge-danson-ndekezi)  
 📧 **Email:** sergedanson@gmail.com 
-🐦 **Twitter:** [@DansonSerge](https://twitter.com/dansonserge)  
 🌐 **Website:** [sergedanson.com](https://sergedanson.com)
 
 ⚡ _"Let's create things that make a difference in the world!"_
