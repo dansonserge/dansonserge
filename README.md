@@ -8,7 +8,7 @@
 
 ## 🔥 About Me
 
-👋 Hey! I'm Danson, a **Software Engineer & Tech Entrepreneur** passionate about building scalable, secure, and high-performance applications. With a background in **Java, TypeScript, Golang, and Python**, I specialize in **backend development, microservices, and cloud computing**.  
+👋 Hey! I'm Danson, a **Software Engineer, Designer & Tech Entrepreneur**.  
 
 ❤️ I love solving problems by building scalable software solutions, exploring blockchain and AI technologies, and growing tech startups.
 
