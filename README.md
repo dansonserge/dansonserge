@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Danson 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/serge-danson-ndekezi/))  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)]([https://twitter.com/yourhandl](https://x.com/dansonserge)  
-[![Website](https://img.shields.io/badge/Website-Visit-lightgray?style=flat-square&logo=google-chrome)](https://sergedanson.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/serge-danson-ndekezi/)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://x.com/dansonserge)  
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=flat-square&logo=google-chrome)](https://sergedanson.com)
 
 ---
 
