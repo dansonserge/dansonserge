@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Danson Serge Ndekezi 🚀
+# 👋 Hi there! I'm Danson 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/serge-danson-ndekezi/) 
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://x.com/dansonserge) 
